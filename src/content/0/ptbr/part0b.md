@@ -586,7 +586,7 @@ Durante este curso, vamos nos familiarizar com o React e com a biblioteca [Redux
 
 O status do React parece forte, mas o mundo de JavaScript está sempre mudando. Por exemplo, recentemente, um novato — [VueJS](https://vuejs.org/) — tem chamado a atenção.
 
-### Desenvolvimento Web Ful Stack
+### Desenvolvimento Web Full Stack
 
 O que significa o nome do curso, <i>Desenvolvimento Web Full Stack</i>? A palavra "Full Stack" é um jargão de que todo mundo fala, mas ninguém sabe o que significa. Ou pelo menos, não há uma definição padrão para o termo.
 
